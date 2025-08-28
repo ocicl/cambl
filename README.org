@@ -4,6 +4,6 @@ Common Lisp library for working with commoditized amounts and balances
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/jwiegley/cambl.git |
-| commit  | 7016d1a                                   |
+| commit  | c21b8af                                   |
 | systems | cambl fprog                               |
 |---------+-------------------------------------------|
