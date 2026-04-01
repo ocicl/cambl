@@ -7,3 +7,4 @@ Common Lisp library for working with commoditized amounts and balances
 | commit  | c21b8af                                   |
 | systems | cambl fprog                               |
 |---------+-------------------------------------------|
+ 
